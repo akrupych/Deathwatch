@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Deathwatch</string>
+    <string name="create_character">Create Character</string>
+    <string name="character_name">Character Name</string>
+    <string name="chapter">Chapter</string>
+    <string name="speciality">Speciality</string>
+    <string name="rank">Rank</string>
+    <string name="history">History</string>
+    <string name="chapter_demeanor">Chapter Demeanor</string>
+    <string name="personal_demeanor">Personal Demeanor</string>
+</resources>
