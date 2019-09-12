@@ -5,8 +5,5 @@
     <color name="colorAccent">#ebb559</color>
 
     <color name="dark">#2a2c38</color>
-    <color name="middle">#646464</color>
     <color name="light">#ebebeb</color>
-
-    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">@color/middle</color>
 </resources>
